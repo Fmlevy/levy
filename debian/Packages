@@ -27,6 +27,20 @@ Priority: optional
 Description: Teste com documentação.
 
 Package: teste
+Version: 0.3
+Architecture: all
+Essential: no
+Maintainer: Levy
+Depends: less, parted, rsync
+Filename: ./teste_0.3_all.deb
+Size: 874
+MD5sum: 0932e04e290f49efe592c23e9e0bbc95
+SHA1: 23cb9e03ce882dc87e189752908d6fedef110c80
+SHA256: f164493d46ea1d917c2e129d0f5c33d41197edd168331be610f625ac6472178a
+Priority: optional
+Description: Teste com documentação. (Github)
+
+Package: teste
 Version: 0.4
 Architecture: all
 Essential: no
@@ -39,4 +53,3 @@ SHA1: bec4698353e48dba28fc82dd030e1cd63d12f48b
 SHA256: 40e46a00462ebf0f4f9b5fe8779dd7f7387e9aaf729b71c42f3ccff6bd431db4
 Priority: optional
 Description: Teste com documentação (atualização)
-
